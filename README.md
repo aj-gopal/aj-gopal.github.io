@@ -1,2 +1,1 @@
-# aj-gopal.github.io
-Portfolio Using React JS
+## Portfolio built using React JS
